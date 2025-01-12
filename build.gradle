@@ -1,0 +1,14 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.7.2' // Android Gradle Plugin 최신 버전
+        classpath 'com.google.gms:google-services:4.3.15' // Firebase 최신 버전
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

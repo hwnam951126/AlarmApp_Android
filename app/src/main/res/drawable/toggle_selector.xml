@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 선택된 상태의 배경 -->
+    <item android:state_checked="true">
+        <shape>
+            <solid android:color="#FF4081" /> <!-- 선택 시 배경색 (핑크) -->
+            <corners android:radius="10dp" /> <!-- 모서리를 둥글게 -->
+        </shape>
+    </item>
+
+    <!-- 선택되지 않은 상태의 배경 -->
+    <item android:state_checked="false">
+        <shape>
+            <solid android:color="#CCCCCC" /> <!-- 비선택 시 배경색 (회색) -->
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+</selector>

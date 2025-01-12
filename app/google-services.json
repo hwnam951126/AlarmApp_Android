@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684591434876",
+    "project_id": "alarm-ap-a74e7",
+    "storage_bucket": "alarm-ap-a74e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684591434876:android:6c815864052c2324fc4df9",
+        "android_client_info": {
+          "package_name": "com.example.alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMOuxbd6rzRdiv4KFZN-0hH7PkLU3lqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684591434876:android:6ab1b2f066fc95e8fc4df9",
+        "android_client_info": {
+          "package_name": "com.example.alarmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMOuxbd6rzRdiv4KFZN-0hH7PkLU3lqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
